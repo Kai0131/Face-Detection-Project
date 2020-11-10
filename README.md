@@ -6,5 +6,5 @@ In this project, we
 
 An example of our method:
 
-<img src="/7.png" alt="drawing" width="600"/>
-<img src="/9.png" alt="drawing" width="400"/>
+<img src="/images/7.png" alt="drawing" width="600"/>
+<img src="/images/9.png" alt="drawing" width="400"/>
