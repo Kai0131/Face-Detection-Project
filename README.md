@@ -6,4 +6,4 @@ In this project, we
 
 An example of our method:
 
-<img src="/7.png" alt="drawing" width="400"/>
+<img src="/7.png" alt="drawing" width="600"/>
