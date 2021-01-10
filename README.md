@@ -8,4 +8,4 @@ An example of our method:
 
 <img src="/images/7.png" alt="drawing" width="400"/>
 <img src="/images/9.png" alt="drawing" width="400"/>
-<img src="/images/preview" alt="drawing" width="400"/>
+<img src="/images/preview.png" alt="drawing" width="400"/>
