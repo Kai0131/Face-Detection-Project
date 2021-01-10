@@ -4,8 +4,10 @@ In this project, we
 * compared the accuracy and false-positive rate of two most widely-used algorithms for face dtection, the classic Viola-Jones face detection algorithm and Convolutional Neural Networks,
 * implement an image preprocessing method to reduce false-positive rate using color selecting and sharpening, see Preprocess.py for more details.
 
+<img src="/images/preview.png" alt="drawing" width="700"/>
+
 An example of our method:
 
 <img src="/images/7.png" alt="drawing" width="600"/>
 <img src="/images/9.png" alt="drawing" width="400"/>
-<img src="/images/preview.png" alt="drawing" width="700"/>
+
